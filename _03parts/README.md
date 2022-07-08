@@ -5,7 +5,12 @@ mainly created for the [ECS Case based groundstation](/_02pcb/ECSCase%20Board), 
 
 ## Solar panel
 ### Glue cover for electrical connections
-[solar_panel_glue.stl](solar_panel/electrical_connection/solar_panel_glue.stl), [solar_panel_glue_top.stl](solar_panel/electrical_connection/solar_panel_glue_top.stl)
+[solar_panel_glue.stl](solar_panel/electrical_connection/solar_panel_glue.stl), 
+[solar_panel_glue_top.stl](solar_panel/electrical_connection/solar_panel_glue_top.stl)
+
+![solar panel back](solar_panel/_images/back.jpg)
+
+
 ### Mast/pole mount
 ## Other parts
 ### 20.5mm washer
