@@ -37,8 +37,9 @@ jobs:
       run: pio run -e sim800_nopsRam
     - name: Build sim800_nopsRam
       run: pio run -e sim800_nopsRam
-    - name: Build ttgo-lora32-v1_SD_CARD
-      run: pio run -e ttgo-lora32-v1_SD_CARD
-
-
+    - name: Build nopsRam_8MB
+      run: pio run -e nopsRam_8MB
+    - name: Build sim7000_psRam_16MB
+      run: pio run -e sim7000_psRam_16MB
+      
 
