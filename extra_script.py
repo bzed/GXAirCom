@@ -31,7 +31,7 @@ def copy_file(*args, **kwargs):
     elif filename == "spiffs.bin":
         savefile = 'bin/spiffs_{}{}.bin'.format(version, size_postfix)
     elif filename == "partitions.bin":
-        savefile = "bin/partitions_{}.bin".format(size_postfix)
+        savefile = "bin/partitions{}.bin".format(size_postfix)
     else:
         savefile = 'bin/{}'.format(filename)
     print("********  copy file " + target + " to " + savefile + " *******")
